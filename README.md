@@ -4,19 +4,23 @@ Bienvenido a mi repositorio personal. Aquí comparto proyectos, ideas y experime
 
 ## 📌 Sobre mi
 
-- ✨ [Funcionalidad 1]
-- ⚙️ [Funcionalidad 2]
-- 📊 [Funcionalidad 3]
-
----
+- ✨ Persona responsable
+- ⚙️ Persona respetuosa
+- 📊 Me gusta aprender cosas nuevas 
+- 🧑‍💻 Apasionado por la tecnologia
 
 ## 🛠 Tecnologías
 
-Este proyecto fue construido utilizando:
+Algunas de las tecnologias que manejo:
 
-- 
-- [Lenguaje o Framework 2]
-- [Base de datos, herramientas, servicios, etc.]
+- Python, Dart, Java Script, Java, Flutter 
+- MongoDB, MySQL, PostgresSQL, Firebase
 
-## 🚀 Cómo ejecutar el proyecto
+## 🚀 Pasatiempos
 
+- 🎸 Practicar guitarra
+- 🏋 Levantamiento de pesas
+
+## 📪 Contacto
+- (Email) eduardodelarosa188@gmail.com
+- (Linkedln) www.linkedin.com/in/eduardo-sánchez-de-la-rosa-98aa462b8
