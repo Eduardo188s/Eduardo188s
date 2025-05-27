@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Eduardo Sánchez
 
-<!--
-**Eduardo188s/Eduardo188s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi repositorio personal. Aquí comparto proyectos, ideas y experimentos relacionados con la tecnología, el desarrollo de software y más. Este repositorio es parte de mi camino de aprendizaje y crecimiento como desarrollador profesional
 
-Here are some ideas to get you started:
+## 📌 Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ [Funcionalidad 1]
+- ⚙️ [Funcionalidad 2]
+- 📊 [Funcionalidad 3]
+
+---
+
+## 🛠 Tecnologías
+
+Este proyecto fue construido utilizando:
+
+- 
+- [Lenguaje o Framework 2]
+- [Base de datos, herramientas, servicios, etc.]
+
+## 🚀 Cómo ejecutar el proyecto
+
